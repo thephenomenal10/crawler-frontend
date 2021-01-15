@@ -1,0 +1,4 @@
+{
+    "local": "https://crawler-app-medium.herokuapp.com",
+    "heroku": "http://localhost:8000"
+}
